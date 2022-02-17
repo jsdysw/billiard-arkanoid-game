@@ -1,7 +1,7 @@
 # billiard-arkanoid-game
 
 ## File info
-<img src="https://user-images.githubusercontent.com/76895949/154515627-4978f832-26a0-44b3-84c0-58c1d05a7bdc.png" width="400px" height="500px"/><img src="https://user-images.githubusercontent.com/76895949/154515646-611fbe1d-d67f-4f1d-86a6-466f86586fa4.png" width="400px" height="500px"/>
+<img src="https://user-images.githubusercontent.com/76895949/154515627-4978f832-26a0-44b3-84c0-58c1d05a7bdc.png" width="400px" height="400px"/><img src="https://user-images.githubusercontent.com/76895949/154515646-611fbe1d-d67f-4f1d-86a6-466f86586fa4.png" width="400px" height="400px"/>
 
 - you can move the white ball with the mouse movement.
 - space : start the game.

@@ -1,26 +1,26 @@
 # billiard-arkanoid-game
 
-* File info
-![billiard1](https://user-images.githubusercontent.com/76895949/154515627-4978f832-26a0-44b3-84c0-58c1d05a7bdc.png)![billiard2](https://user-images.githubusercontent.com/76895949/154515646-611fbe1d-d67f-4f1d-86a6-466f86586fa4.png)
+## File info
+<img src="https://user-images.githubusercontent.com/76895949/154515627-4978f832-26a0-44b3-84c0-58c1d05a7bdc.png" width="400px" height="500px"/><img src="https://user-images.githubusercontent.com/76895949/154515646-611fbe1d-d67f-4f1d-86a6-466f86586fa4.png" width="400px" height="500px"/>
 
 - you can move the white ball with the mouse movement.
 - space : start the game.
 - esc : exit the program.
 - You can watch the play video through demoVideo.mp4.
 
-* How to Compile
+## How to Compile
 - Make sure you downloaded DirectX first.
 - OS type : Windows
 - Used Language : ISO C++14 Standard
 - Compiler type/version : Microsoft (R) C/C++ Optimizing Compiler Version 19.28.29913 for x86
 - run "VirtualLego.sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
 
-* How to Execute
+## How to Execute
 - Make sure you downloaded DirectX first.
 - Option 1. run VirtualLego.sln file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
 - Option 2. execute "VirtualLego.exe" at root folder
 
-* Summary of Code
+## Summary of Code
 - const float spherePos[][] : it contains the coordinate of yellow balls which you have to hit and erase
 - CSphere::hitBy(CSphere& ball) : check if two balls collide, and calculate the new reflected movement direction and speed.
 - CSphere::ballUpdate() : update ball's state(Position, power, ..etc) at every frame(timeDiff). Additionally, make the ball safe not to go outside of the board

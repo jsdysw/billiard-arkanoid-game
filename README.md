@@ -1,6 +1,5 @@
 # billiard-arkanoid-game
 
-## File info
 <img src="https://user-images.githubusercontent.com/76895949/154515627-4978f832-26a0-44b3-84c0-58c1d05a7bdc.png" width="400px" height="400px"/><img src="https://user-images.githubusercontent.com/76895949/154515646-611fbe1d-d67f-4f1d-86a6-466f86586fa4.png" width="400px" height="400px"/>
 
 - you can move the white ball with the mouse movement.
@@ -8,16 +7,15 @@
 - esc : exit the program.
 - You can watch the play video through demoVideo.mp4.
 
-## How to Compile
-- Make sure you downloaded DirectX first.
+## Environment
+- Downloaded DirectX.
 - OS type : Windows
 - Used Language : ISO C++14 Standard
 - Compiler type/version : Microsoft (R) C/C++ Optimizing Compiler Version 19.28.29913 for x86
-- run "VirtualLego.sln" file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
 
 ## How to Execute
 - Make sure you downloaded DirectX first.
-- Option 1. run VirtualLego.sln file with Visual Studio 2017 -> click Debug tab -> click Start Without Debugging
+- Option 1. make a visual studio project -> set headerfile path -> copy source files from this repository -> click Debug/Start Without Debugging.
 - Option 2. execute "VirtualLego.exe" at root folder
 
 ## Summary of Code
